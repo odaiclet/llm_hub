@@ -9,11 +9,7 @@
 2. The contents should look like:<br>
 `API_KEY = your_groq_api_key #Note: don't use quotation marks`
 
-### 3. activate venv or install libraries
-1. In your project's folder, activate venv by running:<br>
-`source .venv/bin/activate`<br>
-OR
-2. install these libraries 
+### 3. install these libraries 
 - python-dotenv : this is for parsing env variables into global env
 - gloq : for connecting to the llm endpoint
 - os : for reading env variables
